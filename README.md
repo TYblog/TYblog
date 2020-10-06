@@ -1,11 +1,11 @@
 
-### Hello, this is Mr.miaopasi. 👋<br>
+### Hello, this is Mr.miaopasi. 👋 <br>
 I am a student from China. I like to study open source projects and all interesting things, and want to try to do some related things.<br>
 
 * 🔭I am currently researching, um~ o(￣▽￣)o..., yes, you can find them below.<br>
 * 🌱I am currently learning computer front end and want to learn all the interesting things with it.<br>
 * 🤔I want to be a pure person (to get in touch with more html & css) avg is also a good choice.<br>
-* ❤️I like to eat 🍉, 🐓,play🏓, and sleep on and beside 🛌.<br>
+* ❤️I like to eat 🍉, 🐓,play 🏓, and sleep on 🛌 and 📺 beside.<br>
 * 💬You are free to ask me anything about here.<br>
 You can find out how to contact me in the sidebar. You can follow me to find something more interesting.<br>
 
