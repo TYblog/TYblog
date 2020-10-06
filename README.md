@@ -14,10 +14,10 @@ If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TYblog&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TYblog)](https://github.com/anuraghazra/github-readme-stats)  <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/TYblog/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TYblog&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/TYblog/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TYblog&repo=convoychat" />
 </a>
 
