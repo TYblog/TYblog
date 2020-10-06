@@ -11,8 +11,6 @@ You can find out how to contact me in the sidebar. You can follow me to find som
 
 If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or leave me a message at www.mpsblog.shop.<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TYblog&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TYblog)](https://github.com/anuraghazra/github-readme-stats)  <br>
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYblog&exclude_repo=github-readme-stats,anuraghazra.github.io" />
