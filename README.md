@@ -10,11 +10,9 @@ I am a student from China. I like to study open source projects and all interest
 You can find out how to contact me in the sidebar. You can follow me to find something more interesting.<br>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYblog&exclude_repo=github-readme-stats,anuraghazra.github.io" />
-</a>
-If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or leave me a message at www.mpsblog.shop.<br>
-<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TYblog" />
 </a>
+If you like my project, you can buy me one 🍉/🍔/🍟/🍦/🥤/🍰. Or leave me a message at www.mpsblog.shop.<br>
 
 以下中文：
 
