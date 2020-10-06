@@ -1,16 +1,13 @@
-### Hi there 👋
+### 你好，我是喵帕斯先生。👋<br>
 
-<!--
-**TYblog/TYblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一个来自中国的学生。我喜欢研究开源项目和所有有趣的事情， 想尝试做相关的一些事情。<br>
 
-Here are some ideas to get you started:
+* 🔭我目前正在研究的，嗯~ o(*￣▽￣*)o...，是的，你可以在下面找到它们。<br>
+* 🌱我目前正在学习计算机前端，并想学习与之一切有趣的事物。<br>
+* 🤔我想做一个纯粹之人（去接触更多的html & css）avg也是不错的选择。<br>
+* ❤️我喜欢吃🍉，🐓，🏓，睡在🛌上和📺旁。<br>
+* 💬您可以自由地问我关于这里的任何事情。<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+你可以在侧边栏找到如何联系我。你可以跟着我找些更有趣的东西。<br>
+
+如果你喜欢我的项目，你可以给我买一个🍉/🍔/🍟/🍦/🥤/🍰在www.mpsblog.shop给我留言。<br>
